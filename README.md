@@ -5,3 +5,4 @@
 Fluminenese 
 
 * git push
+* git pull
