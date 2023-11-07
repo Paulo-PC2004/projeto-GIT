@@ -3,3 +3,5 @@
 ## gravando mundaças boas
 
 Fluminenese 
+
+* git push
